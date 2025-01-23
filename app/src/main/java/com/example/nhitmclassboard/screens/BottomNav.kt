@@ -5,5 +5,5 @@ import androidx.compose.runtime.Composable
 
 @Composable
 fun BottomNav(){
-    Text(text = "bottom navigation")
+    Text(text = "bottom navigation ")
 }
