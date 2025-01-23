@@ -5,5 +5,5 @@ import androidx.compose.runtime.Composable
 
 @Composable
 fun Faculty(){
-    Text(text = "faculty")
+    Text(text = "faculty....sara")
 }
