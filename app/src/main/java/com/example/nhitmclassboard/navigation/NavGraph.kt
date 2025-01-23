@@ -41,8 +41,3 @@ fun NavGraph(navController: NavHostController){
 }
 
 
-fun composable(route: String, function: @Composable () -> Unit) {
-
-}
-
-
