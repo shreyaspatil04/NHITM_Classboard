@@ -5,5 +5,5 @@ import androidx.compose.runtime.Composable
 
 @Composable
 fun AboutUs(){
-    Text(text = "about us : abc")
+    Text(text = "about us : aaaaac")
 }
